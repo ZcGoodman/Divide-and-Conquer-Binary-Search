@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class a2_q2{
+public class binary-search{
 
     public static boolean hasDuplicate(int[] arr, int low, int high){
         if (low>=high){
